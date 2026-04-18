@@ -1,6 +1,6 @@
 # Hi, I'm Shiv Kumar 👨‍💻
 
-💻 **Computer Science Student | Web Developer | Java • Python • C++ • JavaScript**
+💻 **Computer Science Student | Web Developer | Java • Python  • JavaScript**
 
 ---
 
